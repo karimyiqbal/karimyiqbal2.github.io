@@ -1,0 +1,44 @@
+---
+title: "Research"
+format: html
+---
+
+## EPPS 6323 - Knowledge Mining - Research Paper
+
+[Knowledge Mining Final Paper](pdfs/Pietrzak_FinalPaper.pdf)
+
+## EPPS 6323 - Knowledge Mining - Research Presentation
+
+[Knowledge Mining Research Presentation](pdfs/Pietrzak_Presentation.pdf)
+
+## EPPS 6323 - Knowledge Mining - Research Proposal
+
+[Knowledge Mining Research Proposal](pdfs/Pietrzak_Proposal.pdf)
+
+## EPPS 6323 - Knowledge Mining - Assignments
+
+[Knowledge Mining Assignments](pdfs/KM_%20Assignments.pdf)
+
+## EPPS 6354 - Information Management - Final Paper
+
+[Information Management Final Paper](pdfs/Iqbal_FinalReport.pdf)
+
+## EPPS 6354 - Information Management - Final Presentation
+
+[Information Management Final Presentation](pdfs/Iqbal_FinalPresentation.pdf)
+
+## EPPS 6354 - Information Management - Proposal
+
+[Information Management Proposal](pdfs/Iqbal_proposal.pdf)
+
+## EPPS 6354 - Information Management - Shiny App
+
+[Information Management Shiny App](https://alumnihw.shinyapps.io/shinyapp/)
+
+## EPPS 6354 - Information Management - Code
+
+[Information Management Code](https://github.com/Karimveljee/shinyapp)
+
+## EPPS 6354 - Information Management - Assignments
+
+[Information Management Assignments](pdfs/IM_Assignments.pdf)

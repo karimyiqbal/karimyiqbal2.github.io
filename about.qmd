@@ -1,0 +1,8 @@
+---
+title: "About"
+format: html
+---
+
+## About
+
+I am currently pursuing masters from the University of Texas at Dallas.

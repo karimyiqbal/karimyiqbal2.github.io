@@ -1,0 +1,16 @@
+project:
+  type: website
+  title: "karimyiqbal"
+
+website:
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Research
+        href: research.qmd
+
+
+editor: visual
